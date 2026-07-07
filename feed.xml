@@ -7,8 +7,8 @@
     <language>en-us</language>
     <copyright>Copyright 2026 ilteris</copyright>
     <generator>Hermes audio_overview_publish_podcast.py</generator>
-    <lastBuildDate>Tue, 07 Jul 2026 19:05:15 GMT</lastBuildDate>
-    <pubDate>Tue, 07 Jul 2026 19:05:15 GMT</pubDate>
+    <lastBuildDate>Tue, 07 Jul 2026 20:12:03 GMT</lastBuildDate>
+    <pubDate>Tue, 07 Jul 2026 20:12:03 GMT</pubDate>
     <atom:link href="https://ilteris.github.io/hermes-audio-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>ilteris + Hermes</itunes:author>
     <itunes:summary>AI-generated spoken explainers from links saved and published by Hermes.</itunes:summary>
@@ -25,6 +25,21 @@
       <title>Hermes Audio Overviews</title>
       <link>https://ilteris.github.io/hermes-audio-feed/</link>
     </image>
+    <item>
+      <title>How to Prepare for System Design Interviews</title>
+      <description>A two-host spoken overview of Hello Interview’s system design interview prep guide. The episode covers how system design interviews work, a practical delivery framework, six fundamentals to refresh, common architecture components, and how to practice using canonical problems instead of memorizing random diagrams.</description>
+      <link>https://ilteris.github.io/hermes-audio-feed/#2026-07-07-system-design-interview-prep</link>
+      <guid isPermaLink="false">2026-07-07-system-design-interview-prep</guid>
+      <pubDate>Tue, 07 Jul 2026 20:12:03 GMT</pubDate>
+      <itunes:title>How to Prepare for System Design Interviews</itunes:title>
+      <itunes:author>ilteris + Hermes</itunes:author>
+      <itunes:summary>A two-host spoken overview of Hello Interview’s system design interview prep guide. The episode covers how system design interviews work, a practical delivery framework, six fundamentals to refresh, common architecture components, and how to practice using canonical problems instead of memorizing random diagrams.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://ilteris.github.io/hermes-audio-feed/assets/cover.png" />
+      <itunes:duration>11:16</itunes:duration>
+      <enclosure url="https://ilteris.github.io/hermes-audio-feed/episodes/2026-07-07-system-design-interview-prep.mp3" length="10826540" type="audio/mpeg" />
+    </item>
     <item>
       <title>MetaSkill-Evolve: Agents Improving How They Improve</title>
       <description>A two-host spoken explainer of MetaSkill-Evolve, a paper on recursive self-improvement for skill-based LLM agents. It explains fast task-skill evolution, slower meta-skill evolution, the five-agent improvement pipeline, persistent branch search, benchmark gains on OfficeQA, SealQA, and ALFWorld, and the main caveats.</description>

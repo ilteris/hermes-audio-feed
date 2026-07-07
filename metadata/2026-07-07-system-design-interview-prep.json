@@ -1,0 +1,17 @@
+{
+  "guid": "2026-07-07-system-design-interview-prep",
+  "slug": "2026-07-07-system-design-interview-prep",
+  "title": "How to Prepare for System Design Interviews",
+  "description": "A two-host spoken overview of Hello Interview’s system design interview prep guide. The episode covers how system design interviews work, a practical delivery framework, six fundamentals to refresh, common architecture components, and how to practice using canonical problems instead of memorizing random diagrams.",
+  "source_url": "https://www.youtube.com/watch?v=Ru54dxzCyD0",
+  "pub_date_iso": "2026-07-07T20:12:03.772975+00:00",
+  "pub_date_rfc2822": "Tue, 07 Jul 2026 20:12:03 GMT",
+  "audio_file": "episodes/2026-07-07-system-design-interview-prep.mp3",
+  "audio_url": "https://ilteris.github.io/hermes-audio-feed/episodes/2026-07-07-system-design-interview-prep.mp3",
+  "audio_bytes": 10826540,
+  "duration_seconds": 676,
+  "duration": "11:16",
+  "transcript_file": "transcripts/2026-07-07-system-design-interview-prep.md",
+  "transcript_url": "https://ilteris.github.io/hermes-audio-feed/transcripts/2026-07-07-system-design-interview-prep.md",
+  "episode_url": "https://ilteris.github.io/hermes-audio-feed/#2026-07-07-system-design-interview-prep"
+}
