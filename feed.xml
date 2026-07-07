@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hermes Audio Overviews</title>
+    <link>https://ilteris.github.io/hermes-audio-feed/</link>
+    <description>AI-generated spoken explainers from links saved and published by Hermes.</description>
+    <language>en-us</language>
+    <generator>Hermes audio_overview_publish_podcast.py</generator>
+    <lastBuildDate>Tue, 07 Jul 2026 16:53:48 GMT</lastBuildDate>
+    <itunes:author>ilteris + Hermes</itunes:author>
+    <itunes:summary>AI-generated spoken explainers from links saved and published by Hermes.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology" />
+    <item>
+      <title>Carmack on HBM vs Flash for AI Inference</title>
+      <description>A two-host spoken explainer about John Carmack’s idea: use cheap NAND flash as a large model-weight store for AI inference, while keeping HBM/SRAM for hot working data.</description>
+      <link>https://ilteris.github.io/hermes-audio-feed/#2026-07-07-carmack-hbm-flash</link>
+      <guid isPermaLink="false">2026-07-07-carmack-hbm-flash</guid>
+      <pubDate>Tue, 07 Jul 2026 16:53:48 GMT</pubDate>
+      <itunes:author>ilteris + Hermes</itunes:author>
+      <itunes:summary>A two-host spoken explainer about John Carmack’s idea: use cheap NAND flash as a large model-weight store for AI inference, while keeping HBM/SRAM for hot working data.</itunes:summary>
+      <itunes:duration>7:46</itunes:duration>
+      <comments>https://x.com/i/status/2074248758422864226</comments>
+      <enclosure url="https://ilteris.github.io/hermes-audio-feed/episodes/2026-07-07-carmack-hbm-flash.mp3" length="7466540" type="audio/mpeg" />
+    </item>
+  </channel>
+</rss>

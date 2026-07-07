@@ -1,0 +1,17 @@
+{
+  "guid": "2026-07-07-carmack-hbm-flash",
+  "slug": "2026-07-07-carmack-hbm-flash",
+  "title": "Carmack on HBM vs Flash for AI Inference",
+  "description": "A two-host spoken explainer about John Carmack’s idea: use cheap NAND flash as a large model-weight store for AI inference, while keeping HBM/SRAM for hot working data.",
+  "source_url": "https://x.com/i/status/2074248758422864226",
+  "pub_date_iso": "2026-07-07T16:53:48.652116+00:00",
+  "pub_date_rfc2822": "Tue, 07 Jul 2026 16:53:48 GMT",
+  "audio_file": "episodes/2026-07-07-carmack-hbm-flash.mp3",
+  "audio_url": "https://ilteris.github.io/hermes-audio-feed/episodes/2026-07-07-carmack-hbm-flash.mp3",
+  "audio_bytes": 7466540,
+  "duration_seconds": 466,
+  "duration": "7:46",
+  "transcript_file": "transcripts/2026-07-07-carmack-hbm-flash.md",
+  "transcript_url": "https://ilteris.github.io/hermes-audio-feed/transcripts/2026-07-07-carmack-hbm-flash.md",
+  "episode_url": "https://ilteris.github.io/hermes-audio-feed/#2026-07-07-carmack-hbm-flash"
+}
