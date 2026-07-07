@@ -7,8 +7,8 @@
     <language>en-us</language>
     <copyright>Copyright 2026 ilteris</copyright>
     <generator>Hermes audio_overview_publish_podcast.py</generator>
-    <lastBuildDate>Tue, 07 Jul 2026 17:05:54 GMT</lastBuildDate>
-    <pubDate>Tue, 07 Jul 2026 17:05:54 GMT</pubDate>
+    <lastBuildDate>Tue, 07 Jul 2026 17:31:25 GMT</lastBuildDate>
+    <pubDate>Tue, 07 Jul 2026 17:31:25 GMT</pubDate>
     <atom:link href="https://ilteris.github.io/hermes-audio-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>ilteris + Hermes</itunes:author>
     <itunes:summary>AI-generated spoken explainers from links saved and published by Hermes.</itunes:summary>
@@ -27,19 +27,17 @@
     </image>
     <item>
       <title>Carmack on HBM vs Flash for AI Inference</title>
-      <description>A two-host spoken explainer about John Carmack’s idea: use cheap NAND flash as a large model-weight store for AI inference, while keeping HBM/SRAM for hot working data.</description>
+      <description>A two-host spoken explainer unpacking John Carmack’s proposal to use cheap NAND flash as a large model-weight store for AI inference. The episode explains HBM, flash, sequential memory access, scratchpad staging, why inference is easier than training, and what this could mean for AI datacenters.</description>
       <link>https://ilteris.github.io/hermes-audio-feed/#2026-07-07-carmack-hbm-flash</link>
       <guid isPermaLink="false">2026-07-07-carmack-hbm-flash</guid>
-      <pubDate>Tue, 07 Jul 2026 17:05:54 GMT</pubDate>
+      <pubDate>Tue, 07 Jul 2026 17:31:25 GMT</pubDate>
       <itunes:title>Carmack on HBM vs Flash for AI Inference</itunes:title>
       <itunes:author>ilteris + Hermes</itunes:author>
-      <itunes:summary>A two-host spoken explainer about John Carmack’s idea: use cheap NAND flash as a large model-weight store for AI inference, while keeping HBM/SRAM for hot working data.</itunes:summary>
+      <itunes:summary>A two-host spoken explainer unpacking John Carmack’s proposal to use cheap NAND flash as a large model-weight store for AI inference. The episode explains HBM, flash, sequential memory access, scratchpad staging, why inference is easier than training, and what this could mean for AI datacenters.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://ilteris.github.io/hermes-audio-feed/assets/cover.png" />
-      <content:encoded>&lt;![CDATA[A two-host spoken explainer about John Carmack’s idea: use cheap NAND flash as a large model-weight store for AI inference, while keeping HBM/SRAM for hot working data.&lt;br&gt;&lt;br&gt;Source: https://x.com/i/status/2074248758422864226]]&gt;</content:encoded>
       <itunes:duration>7:46</itunes:duration>
-      <comments>https://x.com/i/status/2074248758422864226</comments>
       <enclosure url="https://ilteris.github.io/hermes-audio-feed/episodes/2026-07-07-carmack-hbm-flash.mp3" length="7466540" type="audio/mpeg" />
     </item>
   </channel>
