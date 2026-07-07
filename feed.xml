@@ -7,8 +7,8 @@
     <language>en-us</language>
     <copyright>Copyright 2026 ilteris</copyright>
     <generator>Hermes audio_overview_publish_podcast.py</generator>
-    <lastBuildDate>Tue, 07 Jul 2026 20:12:03 GMT</lastBuildDate>
-    <pubDate>Tue, 07 Jul 2026 20:12:03 GMT</pubDate>
+    <lastBuildDate>Tue, 07 Jul 2026 23:10:54 GMT</lastBuildDate>
+    <pubDate>Tue, 07 Jul 2026 23:10:54 GMT</pubDate>
     <atom:link href="https://ilteris.github.io/hermes-audio-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>ilteris + Hermes</itunes:author>
     <itunes:summary>AI-generated spoken explainers from links saved and published by Hermes.</itunes:summary>
@@ -25,6 +25,21 @@
       <title>Hermes Audio Overviews</title>
       <link>https://ilteris.github.io/hermes-audio-feed/</link>
     </image>
+    <item>
+      <title>Omnigent Contextual Policies: Governing Agents With Session State</title>
+      <description>A two-host explainer of Databricks Omnigent contextual policies: why static allow-lists are too blunt for AI agents, and how session state enables better controls for sensitive data, risk, cost, and intent-based authorization.</description>
+      <link>https://ilteris.github.io/hermes-audio-feed/#2026-07-07-omnigent-contextual-policies</link>
+      <guid isPermaLink="false">2026-07-07-omnigent-contextual-policies</guid>
+      <pubDate>Tue, 07 Jul 2026 23:10:54 GMT</pubDate>
+      <itunes:title>Omnigent Contextual Policies: Governing Agents With Session State</itunes:title>
+      <itunes:author>ilteris + Hermes</itunes:author>
+      <itunes:summary>A two-host explainer of Databricks Omnigent contextual policies: why static allow-lists are too blunt for AI agents, and how session state enables better controls for sensitive data, risk, cost, and intent-based authorization.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://ilteris.github.io/hermes-audio-feed/assets/cover.png" />
+      <itunes:duration>10:06</itunes:duration>
+      <enclosure url="https://ilteris.github.io/hermes-audio-feed/episodes/2026-07-07-omnigent-contextual-policies.mp3" length="9697580" type="audio/mpeg" />
+    </item>
     <item>
       <title>How to Prepare for System Design Interviews</title>
       <description>A two-host spoken overview of Hello Interview’s system design interview prep guide. The episode covers how system design interviews work, a practical delivery framework, six fundamentals to refresh, common architecture components, and how to practice using canonical problems instead of memorizing random diagrams.</description>
