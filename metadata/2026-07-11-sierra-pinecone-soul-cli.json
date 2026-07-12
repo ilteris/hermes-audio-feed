@@ -1,0 +1,17 @@
+{
+  "guid": "2026-07-11-sierra-pinecone-soul-cli",
+  "slug": "2026-07-11-sierra-pinecone-soul-cli",
+  "title": "Sierra Pinecone and Soul CLI",
+  "description": "Two-host overview of Sierra Pinecone as validation for the Soul CLI coordination-layer architecture.",
+  "source_url": "https://x.com/i/status/2075290325757608148",
+  "pub_date_iso": "2026-07-12T04:01:36.193393+00:00",
+  "pub_date_rfc2822": "Sun, 12 Jul 2026 04:01:36 GMT",
+  "audio_file": "episodes/2026-07-11-sierra-pinecone-soul-cli.mp3",
+  "audio_url": "https://ilteris.github.io/hermes-audio-feed/episodes/2026-07-11-sierra-pinecone-soul-cli.mp3",
+  "audio_bytes": 9501356,
+  "duration_seconds": 593,
+  "duration": "9:53",
+  "transcript_file": "transcripts/2026-07-11-sierra-pinecone-soul-cli.md",
+  "transcript_url": "https://ilteris.github.io/hermes-audio-feed/transcripts/2026-07-11-sierra-pinecone-soul-cli.md",
+  "episode_url": "https://ilteris.github.io/hermes-audio-feed/#2026-07-11-sierra-pinecone-soul-cli"
+}
