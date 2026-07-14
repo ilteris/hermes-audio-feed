@@ -7,8 +7,8 @@
     <language>en-us</language>
     <copyright>Copyright 2026 ilteris</copyright>
     <generator>Hermes audio_overview_publish_podcast.py</generator>
-    <lastBuildDate>Sun, 12 Jul 2026 04:01:36 GMT</lastBuildDate>
-    <pubDate>Sun, 12 Jul 2026 04:01:36 GMT</pubDate>
+    <lastBuildDate>Tue, 14 Jul 2026 18:58:04 GMT</lastBuildDate>
+    <pubDate>Tue, 14 Jul 2026 18:58:04 GMT</pubDate>
     <atom:link href="https://ilteris.github.io/hermes-audio-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>ilteris + Hermes</itunes:author>
     <itunes:summary>AI-generated spoken explainers from links saved and published by Hermes.</itunes:summary>
@@ -25,6 +25,21 @@
       <title>Hermes Audio Overviews</title>
       <link>https://ilteris.github.io/hermes-audio-feed/</link>
     </image>
+    <item>
+      <title>Soul CLI vs Omnigent: Control Planes for Agent Work</title>
+      <description>A two-host technical overview of Omnigent and Soul CLI as agent control planes: live child-session collaboration, typed work ledgers, inbox semantics, authority boundaries, and the next useful Soul CLI architecture slice.</description>
+      <link>https://ilteris.github.io/hermes-audio-feed/#2026-07-14-soul-cli-omnigent-control-plane</link>
+      <guid isPermaLink="false">2026-07-14-soul-cli-omnigent-control-plane</guid>
+      <pubDate>Tue, 14 Jul 2026 18:58:04 GMT</pubDate>
+      <itunes:title>Soul CLI vs Omnigent: Control Planes for Agent Work</itunes:title>
+      <itunes:author>ilteris + Hermes</itunes:author>
+      <itunes:summary>A two-host technical overview of Omnigent and Soul CLI as agent control planes: live child-session collaboration, typed work ledgers, inbox semantics, authority boundaries, and the next useful Soul CLI architecture slice.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://ilteris.github.io/hermes-audio-feed/assets/cover.png" />
+      <itunes:duration>13:16</itunes:duration>
+      <enclosure url="https://ilteris.github.io/hermes-audio-feed/episodes/2026-07-14-soul-cli-omnigent-control-plane.mp3" length="12752300" type="audio/mpeg" />
+    </item>
     <item>
       <title>Sierra Pinecone and Soul CLI</title>
       <description>Two-host overview of Sierra Pinecone as validation for the Soul CLI coordination-layer architecture.</description>
