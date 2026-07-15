@@ -1,0 +1,17 @@
+{
+  "guid": "2026-07-15-moneylion-review-rationale",
+  "slug": "2026-07-15-moneylion-review-rationale",
+  "title": "MoneyLion Code Review Rationale",
+  "description": "A two-host walkthrough of the reasoning behind the MoneyLion frontend code review challenge: API trust boundaries, async UI correctness, React invariants, accessibility, testing, and interview-ready prioritization.",
+  "source_url": "https://github.com/ilteris/front-end-code-review-challenge/pull/1",
+  "pub_date_iso": "2026-07-15T12:49:15.796020+00:00",
+  "pub_date_rfc2822": "Wed, 15 Jul 2026 12:49:15 GMT",
+  "audio_file": "episodes/2026-07-15-moneylion-review-rationale.mp3",
+  "audio_url": "https://ilteris.github.io/hermes-audio-feed/episodes/2026-07-15-moneylion-review-rationale.mp3",
+  "audio_bytes": 10402988,
+  "duration_seconds": 650,
+  "duration": "10:50",
+  "transcript_file": "transcripts/2026-07-15-moneylion-review-rationale.md",
+  "transcript_url": "https://ilteris.github.io/hermes-audio-feed/transcripts/2026-07-15-moneylion-review-rationale.md",
+  "episode_url": "https://ilteris.github.io/hermes-audio-feed/#2026-07-15-moneylion-review-rationale"
+}
