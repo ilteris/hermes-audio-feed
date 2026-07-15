@@ -7,8 +7,8 @@
     <language>en-us</language>
     <copyright>Copyright 2026 ilteris</copyright>
     <generator>Hermes audio_overview_publish_podcast.py</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 19:18:59 GMT</lastBuildDate>
-    <pubDate>Wed, 15 Jul 2026 19:18:59 GMT</pubDate>
+    <lastBuildDate>Wed, 15 Jul 2026 19:47:17 GMT</lastBuildDate>
+    <pubDate>Wed, 15 Jul 2026 19:47:17 GMT</pubDate>
     <atom:link href="https://ilteris.github.io/hermes-audio-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>ilteris + Hermes</itunes:author>
     <itunes:summary>AI-generated spoken explainers from links saved and published by Hermes.</itunes:summary>
@@ -25,6 +25,21 @@
       <title>Hermes Audio Overviews</title>
       <link>https://ilteris.github.io/hermes-audio-feed/</link>
     </image>
+    <item>
+      <title>Confido Charlie Hipps Product and Code Interview Prep</title>
+      <description>A long two-host interview-prep episode for the Confido Product + Code conversation with Charlie Hipps: design-system positioning, React/MUI implementation quality, AI-assisted frontend drift, product workflow judgment, component whiteboarding, coding interview posture, and questions to ask.</description>
+      <link>https://ilteris.github.io/hermes-audio-feed/#2026-07-15-confido-charlie-hipps-product-code-interview-prep</link>
+      <guid isPermaLink="false">2026-07-15-confido-charlie-hipps-product-code-interview-prep</guid>
+      <pubDate>Wed, 15 Jul 2026 19:47:17 GMT</pubDate>
+      <itunes:title>Confido Charlie Hipps Product and Code Interview Prep</itunes:title>
+      <itunes:author>ilteris + Hermes</itunes:author>
+      <itunes:summary>A long two-host interview-prep episode for the Confido Product + Code conversation with Charlie Hipps: design-system positioning, React/MUI implementation quality, AI-assisted frontend drift, product workflow judgment, component whiteboarding, coding interview posture, and questions to ask.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://ilteris.github.io/hermes-audio-feed/assets/cover.png" />
+      <itunes:duration>30:26</itunes:duration>
+      <enclosure url="https://ilteris.github.io/hermes-audio-feed/episodes/2026-07-15-confido-charlie-hipps-product-code-interview-prep.mp3" length="29227436" type="audio/mpeg" />
+    </item>
     <item>
       <title>GenDigital MoneyLion Round 2 Jerome Dane Q&amp;A Prep</title>
       <description>A long two-host interview-prep episode for the GenDigital / MoneyLion Round 2 conversation with Jerome Dane: AI-assisted engineering judgment, testability, LLM failure modes, code review challenge talking points, UXR evidence loops, Conversational Commerce, platform work, whiteboarding mindset, and questions to ask.</description>
