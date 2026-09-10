@@ -1,0 +1,17 @@
+{
+  "guid": "2026-09-10-harness-as-a-service-work-control",
+  "slug": "2026-09-10-harness-as-a-service-work-control",
+  "title": "Harness-as-a-Service and the Work Control Plane",
+  "description": "A two-host audio overview of OpenAI’s Agents API, Viv Trivedi’s Harness-as-a-Service framing, and what it means for Ilteris’s project-aware work control layer: agent runtimes as backends, evidence packets, verifier gaps, and backend-neutral task execution.",
+  "source_url": "https://x.com/Vtrivedy10/status/2098150319305715997",
+  "pub_date_iso": "2026-09-10T21:21:11.979064+00:00",
+  "pub_date_rfc2822": "Thu, 10 Sep 2026 21:21:11 GMT",
+  "audio_file": "episodes/2026-09-10-harness-as-a-service-work-control.mp3",
+  "audio_url": "https://ilteris.github.io/hermes-audio-feed/episodes/2026-09-10-harness-as-a-service-work-control.mp3",
+  "audio_bytes": 8597420,
+  "duration_seconds": 537,
+  "duration": "8:57",
+  "transcript_file": "transcripts/2026-09-10-harness-as-a-service-work-control.md",
+  "transcript_url": "https://ilteris.github.io/hermes-audio-feed/transcripts/2026-09-10-harness-as-a-service-work-control.md",
+  "episode_url": "https://ilteris.github.io/hermes-audio-feed/#2026-09-10-harness-as-a-service-work-control"
+}
