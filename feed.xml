@@ -7,8 +7,8 @@
     <language>en-us</language>
     <copyright>Copyright 2026 ilteris</copyright>
     <generator>Hermes audio_overview_publish_podcast.py</generator>
-    <lastBuildDate>Thu, 10 Sep 2026 21:21:11 GMT</lastBuildDate>
-    <pubDate>Thu, 10 Sep 2026 21:21:11 GMT</pubDate>
+    <lastBuildDate>Fri, 11 Sep 2026 16:00:48 GMT</lastBuildDate>
+    <pubDate>Fri, 11 Sep 2026 16:00:48 GMT</pubDate>
     <atom:link href="https://ilteris.github.io/hermes-audio-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>ilteris + Hermes</itunes:author>
     <itunes:summary>AI-generated spoken explainers from links saved and published by Hermes.</itunes:summary>
@@ -25,6 +25,21 @@
       <title>Hermes Audio Overviews</title>
       <link>https://ilteris.github.io/hermes-audio-feed/</link>
     </image>
+    <item>
+      <title>Figma FDE Recruiter Screen Prep</title>
+      <description>Two-host spoken rehearsal for the Figma Forward Deployed Engineer technical recruiter screen: positioning, FDE motivation, customer-facing gap handling, Figma MCP and Code Connect framing, production credibility, founding-team angle, and questions to ask Michael Jaffe.</description>
+      <link>https://ilteris.github.io/hermes-audio-feed/#2026-09-11-figma-fde-recruiter-screen</link>
+      <guid isPermaLink="false">2026-09-11-figma-fde-recruiter-screen</guid>
+      <pubDate>Fri, 11 Sep 2026 16:00:48 GMT</pubDate>
+      <itunes:title>Figma FDE Recruiter Screen Prep</itunes:title>
+      <itunes:author>ilteris + Hermes</itunes:author>
+      <itunes:summary>Two-host spoken rehearsal for the Figma Forward Deployed Engineer technical recruiter screen: positioning, FDE motivation, customer-facing gap handling, Figma MCP and Code Connect framing, production credibility, founding-team angle, and questions to ask Michael Jaffe.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://ilteris.github.io/hermes-audio-feed/assets/cover.png" />
+      <itunes:duration>18:26</itunes:duration>
+      <enclosure url="https://ilteris.github.io/hermes-audio-feed/episodes/2026-09-11-figma-fde-recruiter-screen.mp3" length="17708204" type="audio/mpeg" />
+    </item>
     <item>
       <title>Harness-as-a-Service and the Work Control Plane</title>
       <description>A two-host audio overview of OpenAI’s Agents API, Viv Trivedi’s Harness-as-a-Service framing, and what it means for Ilteris’s project-aware work control layer: agent runtimes as backends, evidence packets, verifier gaps, and backend-neutral task execution.</description>
