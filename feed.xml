@@ -7,8 +7,8 @@
     <language>en-us</language>
     <copyright>Copyright 2026 ilteris</copyright>
     <generator>Hermes audio_overview_publish_podcast.py</generator>
-    <lastBuildDate>Sun, 20 Sep 2026 13:11:52 GMT</lastBuildDate>
-    <pubDate>Sun, 20 Sep 2026 13:11:52 GMT</pubDate>
+    <lastBuildDate>Sun, 20 Sep 2026 13:13:29 GMT</lastBuildDate>
+    <pubDate>Sun, 20 Sep 2026 13:13:29 GMT</pubDate>
     <atom:link href="https://ilteris.github.io/hermes-audio-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>ilteris + Hermes</itunes:author>
     <itunes:summary>AI-generated spoken explainers from links saved and published by Hermes.</itunes:summary>
@@ -25,6 +25,21 @@
       <title>Hermes Audio Overviews</title>
       <link>https://ilteris.github.io/hermes-audio-feed/</link>
     </image>
+    <item>
+      <title>Portfolio Deck Notes: Benchmark Sample (Natural Pace)</title>
+      <description>Fresh 56-second benchmark sample using Gemini 3.1 Flash TTS with Aoede and Algenib, 0ms silence, natural pacing.</description>
+      <link>https://ilteris.github.io/hermes-audio-feed/#2026-09-20-portfolio-deck-notes-sample</link>
+      <guid isPermaLink="false">2026-09-20-portfolio-deck-notes-sample</guid>
+      <pubDate>Sun, 20 Sep 2026 13:13:29 GMT</pubDate>
+      <itunes:title>Portfolio Deck Notes: Benchmark Sample (Natural Pace)</itunes:title>
+      <itunes:author>ilteris + Hermes</itunes:author>
+      <itunes:summary>Fresh 56-second benchmark sample using Gemini 3.1 Flash TTS with Aoede and Algenib, 0ms silence, natural pacing.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://ilteris.github.io/hermes-audio-feed/assets/cover.png" />
+      <itunes:duration>0:56</itunes:duration>
+      <enclosure url="https://ilteris.github.io/hermes-audio-feed/episodes/2026-09-20-portfolio-deck-notes-sample.mp3" length="908972" type="audio/mpeg" />
+    </item>
     <item>
       <title>Portfolio Deck Notes: 11 Years of AI Systems and UX Engineering (Benchmark Sample)</title>
       <description>Natural pace benchmark sample (first 4 turns, 56s) using Gemini 3.1 Flash TTS with Aoede and Algenib, with zero artificial silence and natural reading prompt.</description>
