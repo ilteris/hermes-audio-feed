@@ -7,8 +7,8 @@
     <language>en-us</language>
     <copyright>Copyright 2026 ilteris</copyright>
     <generator>Hermes audio_overview_publish_podcast.py</generator>
-    <lastBuildDate>Sun, 20 Sep 2026 13:34:09 GMT</lastBuildDate>
-    <pubDate>Sun, 20 Sep 2026 13:34:09 GMT</pubDate>
+    <lastBuildDate>Sun, 20 Sep 2026 13:39:44 GMT</lastBuildDate>
+    <pubDate>Sun, 20 Sep 2026 13:39:44 GMT</pubDate>
     <atom:link href="https://ilteris.github.io/hermes-audio-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>ilteris + Hermes</itunes:author>
     <itunes:summary>AI-generated spoken explainers from links saved and published by Hermes.</itunes:summary>
@@ -25,6 +25,21 @@
       <title>Hermes Audio Overviews</title>
       <link>https://ilteris.github.io/hermes-audio-feed/</link>
     </image>
+    <item>
+      <title>Portfolio Notes: Calm Engineering Peer Review (Benchmark)</title>
+      <description>Calm, analytical peer review between two senior engineers discussing portfolio notes. Grounded tone, no hype, no bubbly enthusiasm.</description>
+      <link>https://ilteris.github.io/hermes-audio-feed/#2026-09-20-portfolio-deck-notes-peer-review-sample</link>
+      <guid isPermaLink="false">2026-09-20-portfolio-deck-notes-peer-review-sample</guid>
+      <pubDate>Sun, 20 Sep 2026 13:39:44 GMT</pubDate>
+      <itunes:title>Portfolio Notes: Calm Engineering Peer Review (Benchmark)</itunes:title>
+      <itunes:author>ilteris + Hermes</itunes:author>
+      <itunes:summary>Calm, analytical peer review between two senior engineers discussing portfolio notes. Grounded tone, no hype, no bubbly enthusiasm.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://ilteris.github.io/hermes-audio-feed/assets/cover.png" />
+      <itunes:duration>0:51</itunes:duration>
+      <enclosure url="https://ilteris.github.io/hermes-audio-feed/episodes/2026-09-20-portfolio-deck-notes-peer-review-sample.mp3" length="820652" type="audio/mpeg" />
+    </item>
     <item>
       <title>Portfolio Notes: Deep Baritone Algenib Benchmark</title>
       <description>Prompt-steered deep resonant baritone Algenib on Gemini 3.1 Flash TTS multi-speaker single pass.</description>

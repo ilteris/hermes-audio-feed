@@ -1,0 +1,17 @@
+{
+  "guid": "2026-09-20-portfolio-deck-notes-peer-review-sample",
+  "slug": "2026-09-20-portfolio-deck-notes-peer-review-sample",
+  "title": "Portfolio Notes: Calm Engineering Peer Review (Benchmark)",
+  "description": "Calm, analytical peer review between two senior engineers discussing portfolio notes. Grounded tone, no hype, no bubbly enthusiasm.",
+  "source_url": "http://192.168.50.244:4175/PORTFOLIO_MEETING_DECK_NOTES.html",
+  "pub_date_iso": "2026-09-20T13:39:44.620771+00:00",
+  "pub_date_rfc2822": "Sun, 20 Sep 2026 13:39:44 GMT",
+  "audio_file": "episodes/2026-09-20-portfolio-deck-notes-peer-review-sample.mp3",
+  "audio_url": "https://ilteris.github.io/hermes-audio-feed/episodes/2026-09-20-portfolio-deck-notes-peer-review-sample.mp3",
+  "audio_bytes": 820652,
+  "duration_seconds": 51,
+  "duration": "0:51",
+  "transcript_file": "transcripts/2026-09-20-portfolio-deck-notes-peer-review-sample.md",
+  "transcript_url": "https://ilteris.github.io/hermes-audio-feed/transcripts/2026-09-20-portfolio-deck-notes-peer-review-sample.md",
+  "episode_url": "https://ilteris.github.io/hermes-audio-feed/#2026-09-20-portfolio-deck-notes-peer-review-sample"
+}
