@@ -7,8 +7,8 @@
     <language>en-us</language>
     <copyright>Copyright 2026 ilteris</copyright>
     <generator>Hermes audio_overview_publish_podcast.py</generator>
-    <lastBuildDate>Sun, 20 Sep 2026 13:43:40 GMT</lastBuildDate>
-    <pubDate>Sun, 20 Sep 2026 13:43:40 GMT</pubDate>
+    <lastBuildDate>Sun, 20 Sep 2026 14:07:45 GMT</lastBuildDate>
+    <pubDate>Sun, 20 Sep 2026 14:07:45 GMT</pubDate>
     <atom:link href="https://ilteris.github.io/hermes-audio-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>ilteris + Hermes</itunes:author>
     <itunes:summary>AI-generated spoken explainers from links saved and published by Hermes.</itunes:summary>
@@ -25,6 +25,21 @@
       <title>Hermes Audio Overviews</title>
       <link>https://ilteris.github.io/hermes-audio-feed/</link>
     </image>
+    <item>
+      <title>Portfolio Notes: Ilteris Kaplan (11 Years at Google)</title>
+      <description>Comprehensive peer review between senior software engineers Alex and Marcus covering all 12 slides of Ilteris Kaplan's portfolio deck: Figma MCP Server, vibe CLI, Agentic UXR Platform, Dubbing Studio, Vertex AI Studio, Express Mode, Conversational Commerce, Soul CLI, Store Vision AI, and Enterprise Video Search.</description>
+      <link>https://ilteris.github.io/hermes-audio-feed/#2026-09-20-portfolio-deck-notes-full</link>
+      <guid isPermaLink="false">2026-09-20-portfolio-deck-notes-full</guid>
+      <pubDate>Sun, 20 Sep 2026 14:07:45 GMT</pubDate>
+      <itunes:title>Portfolio Notes: Ilteris Kaplan (11 Years at Google)</itunes:title>
+      <itunes:author>ilteris + Hermes</itunes:author>
+      <itunes:summary>Comprehensive peer review between senior software engineers Alex and Marcus covering all 12 slides of Ilteris Kaplan's portfolio deck: Figma MCP Server, vibe CLI, Agentic UXR Platform, Dubbing Studio, Vertex AI Studio, Express Mode, Conversational Commerce, Soul CLI, Store Vision AI, and Enterprise Video Search.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://ilteris.github.io/hermes-audio-feed/assets/cover.png" />
+      <itunes:duration>9:41</itunes:duration>
+      <enclosure url="https://ilteris.github.io/hermes-audio-feed/episodes/2026-09-20-portfolio-deck-notes-full.mp3" length="9303212" type="audio/mpeg" />
+    </item>
     <item>
       <title>Portfolio Notes: Mildly Engaged Peer Review (Benchmark)</title>
       <description>Mature engineering peer review with subtle warmth, intellectual curiosity, and natural vocal inflection. No morning show hype, no flat monotone.</description>

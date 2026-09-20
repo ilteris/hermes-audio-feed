@@ -1,0 +1,17 @@
+{
+  "guid": "2026-09-20-portfolio-deck-notes-full",
+  "slug": "2026-09-20-portfolio-deck-notes-full",
+  "title": "Portfolio Notes: Ilteris Kaplan (11 Years at Google)",
+  "description": "Comprehensive peer review between senior software engineers Alex and Marcus covering all 12 slides of Ilteris Kaplan's portfolio deck: Figma MCP Server, vibe CLI, Agentic UXR Platform, Dubbing Studio, Vertex AI Studio, Express Mode, Conversational Commerce, Soul CLI, Store Vision AI, and Enterprise Video Search.",
+  "source_url": "http://192.168.50.244:4175/PORTFOLIO_MEETING_DECK_NOTES.html",
+  "pub_date_iso": "2026-09-20T14:07:45.184897+00:00",
+  "pub_date_rfc2822": "Sun, 20 Sep 2026 14:07:45 GMT",
+  "audio_file": "episodes/2026-09-20-portfolio-deck-notes-full.mp3",
+  "audio_url": "https://ilteris.github.io/hermes-audio-feed/episodes/2026-09-20-portfolio-deck-notes-full.mp3",
+  "audio_bytes": 9303212,
+  "duration_seconds": 581,
+  "duration": "9:41",
+  "transcript_file": "transcripts/2026-09-20-portfolio-deck-notes-full.md",
+  "transcript_url": "https://ilteris.github.io/hermes-audio-feed/transcripts/2026-09-20-portfolio-deck-notes-full.md",
+  "episode_url": "https://ilteris.github.io/hermes-audio-feed/#2026-09-20-portfolio-deck-notes-full"
+}
