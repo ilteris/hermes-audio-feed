@@ -1,0 +1,17 @@
+{
+  "guid": "2026-09-20-portfolio-deck-notes-baritone-sample",
+  "slug": "2026-09-20-portfolio-deck-notes-baritone-sample",
+  "title": "Portfolio Notes: Deep Baritone Algenib Benchmark",
+  "description": "Prompt-steered deep resonant baritone Algenib on Gemini 3.1 Flash TTS multi-speaker single pass.",
+  "source_url": "http://192.168.50.244:4175/PORTFOLIO_MEETING_DECK_NOTES.html",
+  "pub_date_iso": "2026-09-20T13:34:09.711730+00:00",
+  "pub_date_rfc2822": "Sun, 20 Sep 2026 13:34:09 GMT",
+  "audio_file": "episodes/2026-09-20-portfolio-deck-notes-baritone-sample.mp3",
+  "audio_url": "https://ilteris.github.io/hermes-audio-feed/episodes/2026-09-20-portfolio-deck-notes-baritone-sample.mp3",
+  "audio_bytes": 889772,
+  "duration_seconds": 55,
+  "duration": "0:55",
+  "transcript_file": "transcripts/2026-09-20-portfolio-deck-notes-baritone-sample.md",
+  "transcript_url": "https://ilteris.github.io/hermes-audio-feed/transcripts/2026-09-20-portfolio-deck-notes-baritone-sample.md",
+  "episode_url": "https://ilteris.github.io/hermes-audio-feed/#2026-09-20-portfolio-deck-notes-baritone-sample"
+}
