@@ -1,0 +1,17 @@
+{
+  "guid": "2026-09-20-google-ax-agent-hypervisor",
+  "slug": "2026-09-20-google-ax-agent-hypervisor",
+  "title": "The Agent Hypervisor: Why Google Calls AX Orchestration",
+  "description": "Deep architectural review between senior software engineers Alex and Marcus covering Google AX (google/ax), its Redis Streams control plane, gVisor sandboxing on Agent Substrate, and why systems orchestration is distinct from cognitive agent frameworks.",
+  "source_url": "https://klaweht.com/2026-09-20-google-ax-agent-execution-substrate/",
+  "pub_date_iso": "2026-09-21T02:09:36.773384+00:00",
+  "pub_date_rfc2822": "Mon, 21 Sep 2026 02:09:36 GMT",
+  "audio_file": "episodes/2026-09-20-google-ax-agent-hypervisor.mp3",
+  "audio_url": "https://ilteris.github.io/hermes-audio-feed/episodes/2026-09-20-google-ax-agent-hypervisor.mp3",
+  "audio_bytes": 6788012,
+  "duration_seconds": 424,
+  "duration": "7:04",
+  "transcript_file": "transcripts/2026-09-20-google-ax-agent-hypervisor.md",
+  "transcript_url": "https://ilteris.github.io/hermes-audio-feed/transcripts/2026-09-20-google-ax-agent-hypervisor.md",
+  "episode_url": "https://ilteris.github.io/hermes-audio-feed/#2026-09-20-google-ax-agent-hypervisor"
+}
