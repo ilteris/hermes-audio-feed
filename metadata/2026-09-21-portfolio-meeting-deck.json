@@ -1,0 +1,17 @@
+{
+  "guid": "2026-09-21-portfolio-meeting-deck",
+  "slug": "2026-09-21-portfolio-meeting-deck",
+  "title": "Portfolio Meeting Deck: 13-Slide Architecture & Leadership Walkthrough",
+  "description": "Two-host architectural and leadership deep dive covering Ilteris Kaplan's 13-slide portfolio meeting deck. Spans 11 years at Google, 6 years in Cloud AI, 10 production systems, and the new Operating Principles slide covering Daily AI Workflow, Cross-Functional Triad, Conflict to Artifact, and Prioritizing Impact.",
+  "source_url": "http://localhost:8000/PORTFOLIO_MEETING_DECK_NOTES.html",
+  "pub_date_iso": "2026-09-21T20:49:24.575311+00:00",
+  "pub_date_rfc2822": "Mon, 21 Sep 2026 20:49:24 GMT",
+  "audio_file": "episodes/2026-09-21-portfolio-meeting-deck.mp3",
+  "audio_url": "https://ilteris.github.io/hermes-audio-feed/episodes/2026-09-21-portfolio-meeting-deck.mp3",
+  "audio_bytes": 12231212,
+  "duration_seconds": 764,
+  "duration": "12:44",
+  "transcript_file": "transcripts/2026-09-21-portfolio-meeting-deck.md",
+  "transcript_url": "https://ilteris.github.io/hermes-audio-feed/transcripts/2026-09-21-portfolio-meeting-deck.md",
+  "episode_url": "https://ilteris.github.io/hermes-audio-feed/#2026-09-21-portfolio-meeting-deck"
+}
