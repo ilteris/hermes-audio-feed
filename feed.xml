@@ -7,8 +7,8 @@
     <language>en-us</language>
     <copyright>Copyright 2026 ilteris</copyright>
     <generator>Hermes audio_overview_publish_podcast.py</generator>
-    <lastBuildDate>Mon, 21 Sep 2026 20:49:24 GMT</lastBuildDate>
-    <pubDate>Mon, 21 Sep 2026 20:49:24 GMT</pubDate>
+    <lastBuildDate>Wed, 23 Sep 2026 02:13:26 GMT</lastBuildDate>
+    <pubDate>Wed, 23 Sep 2026 02:13:26 GMT</pubDate>
     <atom:link href="https://ilteris.github.io/hermes-audio-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>ilteris + Hermes</itunes:author>
     <itunes:summary>AI-generated spoken explainers from links saved and published by Hermes.</itunes:summary>
@@ -25,6 +25,21 @@
       <title>Hermes Audio Overviews</title>
       <link>https://ilteris.github.io/hermes-audio-feed/</link>
     </image>
+    <item>
+      <title>Google Search Senior Design System UX Engineer: L6 Interview Deep Dive</title>
+      <description>Two-host engineering peer review covering the technical architecture, VIP live coding, component graduation governance, and L6 behavioral strategies for the Google Search Design System UX Engineer hiring manager interview.</description>
+      <link>https://ilteris.github.io/hermes-audio-feed/#2026-09-22-google-search-design-system-interview-prep</link>
+      <guid isPermaLink="false">2026-09-22-google-search-design-system-interview-prep</guid>
+      <pubDate>Wed, 23 Sep 2026 02:13:26 GMT</pubDate>
+      <itunes:title>Google Search Senior Design System UX Engineer: L6 Interview Deep Dive</itunes:title>
+      <itunes:author>ilteris + Hermes</itunes:author>
+      <itunes:summary>Two-host engineering peer review covering the technical architecture, VIP live coding, component graduation governance, and L6 behavioral strategies for the Google Search Design System UX Engineer hiring manager interview.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://ilteris.github.io/hermes-audio-feed/assets/cover.png" />
+      <itunes:duration>9:10</itunes:duration>
+      <enclosure url="https://ilteris.github.io/hermes-audio-feed/episodes/2026-09-22-google-search-design-system-interview-prep.mp3" length="8809004" type="audio/mpeg" />
+    </item>
     <item>
       <title>Portfolio Meeting Deck: 13-Slide Architecture &amp; Leadership Walkthrough</title>
       <description>Two-host architectural and leadership deep dive covering Ilteris Kaplan's 13-slide portfolio meeting deck. Spans 11 years at Google, 6 years in Cloud AI, 10 production systems, and the new Operating Principles slide covering Daily AI Workflow, Cross-Functional Triad, Conflict to Artifact, and Prioritizing Impact.</description>
