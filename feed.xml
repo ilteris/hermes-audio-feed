@@ -7,8 +7,8 @@
     <language>en-us</language>
     <copyright>Copyright 2026 ilteris</copyright>
     <generator>Hermes audio_overview_publish_podcast.py</generator>
-    <lastBuildDate>Wed, 23 Sep 2026 02:13:26 GMT</lastBuildDate>
-    <pubDate>Wed, 23 Sep 2026 02:13:26 GMT</pubDate>
+    <lastBuildDate>Wed, 23 Sep 2026 20:49:22 GMT</lastBuildDate>
+    <pubDate>Wed, 23 Sep 2026 20:49:22 GMT</pubDate>
     <atom:link href="https://ilteris.github.io/hermes-audio-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>ilteris + Hermes</itunes:author>
     <itunes:summary>AI-generated spoken explainers from links saved and published by Hermes.</itunes:summary>
@@ -25,6 +25,21 @@
       <title>Hermes Audio Overviews</title>
       <link>https://ilteris.github.io/hermes-audio-feed/</link>
     </image>
+    <item>
+      <title>Agentic Evals: A Software Engineer's Guide (Part 1 Review)</title>
+      <description>Alex and Marcus review Yesha Shah's guide to building evals for production-grade AI agents: compounding errors in trajectories, metric stacks, binary rubrics vs scalar scores, pass^k vs pass@k, and why agent evals are fundamentally integration tests.</description>
+      <link>https://ilteris.github.io/hermes-audio-feed/#2026-09-23-agentic-evals-guide-part-1</link>
+      <guid isPermaLink="false">2026-09-23-agentic-evals-guide-part-1</guid>
+      <pubDate>Wed, 23 Sep 2026 20:49:22 GMT</pubDate>
+      <itunes:title>Agentic Evals: A Software Engineer's Guide (Part 1 Review)</itunes:title>
+      <itunes:author>ilteris + Hermes</itunes:author>
+      <itunes:summary>Alex and Marcus review Yesha Shah's guide to building evals for production-grade AI agents: compounding errors in trajectories, metric stacks, binary rubrics vs scalar scores, pass^k vs pass@k, and why agent evals are fundamentally integration tests.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://ilteris.github.io/hermes-audio-feed/assets/cover.png" />
+      <itunes:duration>5:17</itunes:duration>
+      <enclosure url="https://ilteris.github.io/hermes-audio-feed/episodes/2026-09-23-agentic-evals-guide-part-1.mp3" length="5076524" type="audio/mpeg" />
+    </item>
     <item>
       <title>Google Search Senior Design System UX Engineer: L6 Interview Deep Dive</title>
       <description>Two-host engineering peer review covering the technical architecture, VIP live coding, component graduation governance, and L6 behavioral strategies for the Google Search Design System UX Engineer hiring manager interview.</description>
