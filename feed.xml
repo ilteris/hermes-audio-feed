@@ -5,20 +5,20 @@
     <link>https://ilteris.github.io/hermes-audio-feed/</link>
     <description>AI-generated spoken explainers from links saved and published by Hermes.</description>
     <language>en-us</language>
-    <copyright>Copyright 2026 ilteris</copyright>
+    <copyright>Copyright 2026 Podcast Publisher</copyright>
     <generator>Hermes audio_overview_publish_podcast.py</generator>
-    <lastBuildDate>Fri, 25 Sep 2026 17:20:08 GMT</lastBuildDate>
-    <pubDate>Fri, 25 Sep 2026 17:20:08 GMT</pubDate>
+    <lastBuildDate>Fri, 25 Sep 2026 17:21:24 GMT</lastBuildDate>
+    <pubDate>Fri, 25 Sep 2026 17:21:24 GMT</pubDate>
     <atom:link href="https://ilteris.github.io/hermes-audio-feed/feed.xml" rel="self" type="application/rss+xml" />
-    <itunes:author>ilteris + Hermes</itunes:author>
+    <itunes:author>Hermes Audio Overviews</itunes:author>
     <itunes:summary>AI-generated spoken explainers from links saved and published by Hermes.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Technology" />
     <itunes:image href="https://ilteris.github.io/hermes-audio-feed/assets/cover.png" />
     <itunes:owner>
-      <itunes:name>ilteris</itunes:name>
-      <itunes:email>ilteris@example.com</itunes:email>
+      <itunes:name>Podcast Publisher</itunes:name>
+      <itunes:email>podcast@example.com</itunes:email>
     </itunes:owner>
     <image>
       <url>https://ilteris.github.io/hermes-audio-feed/assets/cover.png</url>
@@ -26,19 +26,19 @@
       <link>https://ilteris.github.io/hermes-audio-feed/</link>
     </image>
     <item>
-      <title>Mindy General Coding: Four Progressive UX Engineering Drills</title>
-      <description>A detailed two-host study session for Calendar, Icon Painter, Rainbow, and Accordion. It explains every progressive implementation diff, the state invariants behind each follow-up, accessibility and browser-platform decisions, and how baseline, solid L5, and strong L6 behavior differ.</description>
-      <link>https://ilteris.github.io/hermes-audio-feed/#2026-09-25-mindy-general-coding-practice</link>
-      <guid isPermaLink="false">2026-09-25-mindy-general-coding-practice</guid>
-      <pubDate>Fri, 25 Sep 2026 16:49:37 GMT</pubDate>
-      <itunes:title>Mindy General Coding: Four Progressive UX Engineering Drills</itunes:title>
-      <itunes:author>ilteris + Hermes</itunes:author>
-      <itunes:summary>A detailed two-host study session for Calendar, Icon Painter, Rainbow, and Accordion. It explains every progressive implementation diff, the state invariants behind each follow-up, accessibility and browser-platform decisions, and how baseline, solid L5, and strong L6 behavior differ.</itunes:summary>
+      <title>Four Progressive UX Engineering Coding Drills</title>
+      <description>A detailed two-host study session covering Calendar, Icon Painter, Rainbow, and Accordion. It explains progressive implementation diffs, state invariants, accessibility and browser-platform decisions, and the distinction between baseline, solid L5, and strong L6 behavior.</description>
+      <link>https://ilteris.github.io/hermes-audio-feed/#2026-09-25-progressive-ux-engineering-drills</link>
+      <guid isPermaLink="false">2026-09-25-progressive-ux-engineering-drills</guid>
+      <pubDate>Fri, 25 Sep 2026 17:21:24 GMT</pubDate>
+      <itunes:title>Four Progressive UX Engineering Coding Drills</itunes:title>
+      <itunes:author>Hermes Audio Overviews</itunes:author>
+      <itunes:summary>A detailed two-host study session covering Calendar, Icon Painter, Rainbow, and Accordion. It explains progressive implementation diffs, state invariants, accessibility and browser-platform decisions, and the distinction between baseline, solid L5, and strong L6 behavior.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://ilteris.github.io/hermes-audio-feed/assets/cover.png" />
-      <itunes:duration>18:40</itunes:duration>
-      <enclosure url="https://ilteris.github.io/hermes-audio-feed/episodes/2026-09-25-mindy-general-coding-practice.mp3" length="17922476" type="audio/mpeg" />
+      <itunes:duration>18:33</itunes:duration>
+      <enclosure url="https://ilteris.github.io/hermes-audio-feed/episodes/2026-09-25-progressive-ux-engineering-drills.mp3" length="17820332" type="audio/mpeg" />
     </item>
     <item>
       <title>Google Search Senior Design System UX Engineer: L6 Technical Deep Dive &amp; Masterclass</title>
@@ -47,7 +47,7 @@
       <guid isPermaLink="false">2026-09-23-google-search-ds-l6-technical-masterclass</guid>
       <pubDate>Wed, 23 Sep 2026 21:13:46 GMT</pubDate>
       <itunes:title>Google Search Senior Design System UX Engineer: L6 Technical Deep Dive &amp; Masterclass</itunes:title>
-      <itunes:author>ilteris + Hermes</itunes:author>
+      <itunes:author>Hermes Audio Overviews</itunes:author>
       <itunes:summary>Comprehensive, 14-minute Staff-level technical masterclass generated using Gemini native multi-speaker audio (gemini-3.8-flash-tts with Aoede and Algenib). Covers complete interview drills for hiring manager Mindy Deli Carpini on the Google Search Design System: the 90-second positioned pitch, clean Google exit framing, Wiz 3-layer component state architecture (jsaction, URL single source of truth, Soy/Web Component slots), zero-JS token delivery, CSS containment (contain: layout size) to prevent CLS under streaming AI Overviews, live coding autocomplete mechanics (AbortController, aria-activedescendant, mousedown event timing, IME composition), and L6 behavioral leadership with cross-functional conflict resolution.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -62,7 +62,7 @@
       <guid isPermaLink="false">2026-09-23-google-search-ds-live-drill-masterclass</guid>
       <pubDate>Wed, 23 Sep 2026 21:04:14 GMT</pubDate>
       <itunes:title>Google Search Senior Design System UX Engineer: Live Drill Masterclass</itunes:title>
-      <itunes:author>ilteris + Hermes</itunes:author>
+      <itunes:author>Hermes Audio Overviews</itunes:author>
       <itunes:summary>Two-host spoken engineering peer review generated using Gemini native multi-speaker audio (gemini-3.8-flash-tts with Aoede and Algenib). Covers live technical rehearsal for the Google Search Design System UX Engineer role with hiring manager Mindy Deli Carpini: the 90-second positioned pitch, Google exit framing, Wiz 3-layer architecture, latency/CLS defense, accessible combobox typeahead, and Cloud AI conflict resolution.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -77,7 +77,7 @@
       <guid isPermaLink="false">2026-09-23-agentic-evals-guide-part-1</guid>
       <pubDate>Wed, 23 Sep 2026 20:49:22 GMT</pubDate>
       <itunes:title>Agentic Evals: A Software Engineer's Guide (Part 1 Review)</itunes:title>
-      <itunes:author>ilteris + Hermes</itunes:author>
+      <itunes:author>Hermes Audio Overviews</itunes:author>
       <itunes:summary>Alex and Marcus review Yesha Shah's guide to building evals for production-grade AI agents: compounding errors in trajectories, metric stacks, binary rubrics vs scalar scores, pass^k vs pass@k, and why agent evals are fundamentally integration tests.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -92,7 +92,7 @@
       <guid isPermaLink="false">2026-09-22-google-search-design-system-interview-prep</guid>
       <pubDate>Wed, 23 Sep 2026 02:13:26 GMT</pubDate>
       <itunes:title>Google Search Senior Design System UX Engineer: L6 Interview Deep Dive</itunes:title>
-      <itunes:author>ilteris + Hermes</itunes:author>
+      <itunes:author>Hermes Audio Overviews</itunes:author>
       <itunes:summary>Two-host engineering peer review covering the technical architecture, VIP live coding, component graduation governance, and L6 behavioral strategies for the Google Search Design System UX Engineer hiring manager interview.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -107,7 +107,7 @@
       <guid isPermaLink="false">2026-09-21-portfolio-meeting-deck</guid>
       <pubDate>Mon, 21 Sep 2026 20:49:24 GMT</pubDate>
       <itunes:title>Portfolio Meeting Deck: 13-Slide Architecture &amp; Leadership Walkthrough</itunes:title>
-      <itunes:author>ilteris + Hermes</itunes:author>
+      <itunes:author>Hermes Audio Overviews</itunes:author>
       <itunes:summary>Two-host architectural and leadership deep dive covering Ilteris Kaplan's 13-slide portfolio meeting deck. Spans 11 years at Google, 6 years in Cloud AI, 10 production systems, and the new Operating Principles slide covering Daily AI Workflow, Cross-Functional Triad, Conflict to Artifact, and Prioritizing Impact.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -122,7 +122,7 @@
       <guid isPermaLink="false">2026-09-20-google-ax-agent-hypervisor</guid>
       <pubDate>Mon, 21 Sep 2026 02:09:36 GMT</pubDate>
       <itunes:title>The Agent Hypervisor: Why Google Calls AX Orchestration</itunes:title>
-      <itunes:author>ilteris + Hermes</itunes:author>
+      <itunes:author>Hermes Audio Overviews</itunes:author>
       <itunes:summary>Deep architectural review between senior software engineers Alex and Marcus covering Google AX (google/ax), its Redis Streams control plane, gVisor sandboxing on Agent Substrate, and why systems orchestration is distinct from cognitive agent frameworks.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -137,7 +137,7 @@
       <guid isPermaLink="false">2026-09-20-portfolio-deck-notes-full</guid>
       <pubDate>Sun, 20 Sep 2026 14:29:44 GMT</pubDate>
       <itunes:title>Portfolio Notes: Ilteris Kaplan (11 Years at Google)</itunes:title>
-      <itunes:author>ilteris + Hermes</itunes:author>
+      <itunes:author>Hermes Audio Overviews</itunes:author>
       <itunes:summary>Comprehensive peer review between senior software engineers Alex and Marcus covering all 12 slides of Ilteris Kaplan's portfolio deck: Figma MCP Server, vibe CLI, Agentic UXR Platform, Dubbing Studio, Vertex AI Studio, Express Mode, Conversational Commerce, Soul CLI, Store Vision AI, and Enterprise Video Search. Fully leveled and loudness-normalized to broadcast podcast standards (-16 LUFS).</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -152,7 +152,7 @@
       <guid isPermaLink="false">2026-09-11-figma-fde-recruiter-screen</guid>
       <pubDate>Fri, 11 Sep 2026 16:00:48 GMT</pubDate>
       <itunes:title>Figma FDE Recruiter Screen Prep</itunes:title>
-      <itunes:author>ilteris + Hermes</itunes:author>
+      <itunes:author>Hermes Audio Overviews</itunes:author>
       <itunes:summary>Two-host spoken rehearsal for the Figma Forward Deployed Engineer technical recruiter screen: positioning, FDE motivation, customer-facing gap handling, Figma MCP and Code Connect framing, production credibility, founding-team angle, and questions to ask Michael Jaffe.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -167,7 +167,7 @@
       <guid isPermaLink="false">2026-09-10-harness-as-a-service-work-control</guid>
       <pubDate>Thu, 10 Sep 2026 21:21:11 GMT</pubDate>
       <itunes:title>Harness-as-a-Service and the Work Control Plane</itunes:title>
-      <itunes:author>ilteris + Hermes</itunes:author>
+      <itunes:author>Hermes Audio Overviews</itunes:author>
       <itunes:summary>A two-host audio overview of OpenAI’s Agents API, Viv Trivedi’s Harness-as-a-Service framing, and what it means for Ilteris’s project-aware work control layer: agent runtimes as backends, evidence packets, verifier gaps, and backend-neutral task execution.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -182,7 +182,7 @@
       <guid isPermaLink="false">2026-07-16-confido-charlie-product-code-interview</guid>
       <pubDate>Thu, 16 Jul 2026 12:49:49 GMT</pubDate>
       <itunes:title>Confido Charlie Hipps Product + Code Interview Prep</itunes:title>
-      <itunes:author>ilteris + Hermes</itunes:author>
+      <itunes:author>Hermes Audio Overviews</itunes:author>
       <itunes:summary>Two-host interview rehearsal for the Confido Design Engineer, Design Systems round with Charlie Hipps: product-system framing, React/MUI implementation boundaries, AI-assisted frontend guardrails, workflow patterns, and challenge-question responses.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -197,7 +197,7 @@
       <guid isPermaLink="false">2026-07-15-confido-charlie-hipps-product-code-interview-prep</guid>
       <pubDate>Wed, 15 Jul 2026 19:47:17 GMT</pubDate>
       <itunes:title>Confido Charlie Hipps Product and Code Interview Prep</itunes:title>
-      <itunes:author>ilteris + Hermes</itunes:author>
+      <itunes:author>Hermes Audio Overviews</itunes:author>
       <itunes:summary>A long two-host interview-prep episode for the Confido Product + Code conversation with Charlie Hipps: design-system positioning, React/MUI implementation quality, AI-assisted frontend drift, product workflow judgment, component whiteboarding, coding interview posture, and questions to ask.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -212,7 +212,7 @@
       <guid isPermaLink="false">2026-07-15-gendigital-moneylion-round-2-jerome-qa-bank</guid>
       <pubDate>Wed, 15 Jul 2026 19:18:59 GMT</pubDate>
       <itunes:title>GenDigital MoneyLion Round 2 Jerome Dane Q&amp;A Prep</itunes:title>
-      <itunes:author>ilteris + Hermes</itunes:author>
+      <itunes:author>Hermes Audio Overviews</itunes:author>
       <itunes:summary>A long two-host interview-prep episode for the GenDigital / MoneyLion Round 2 conversation with Jerome Dane: AI-assisted engineering judgment, testability, LLM failure modes, code review challenge talking points, UXR evidence loops, Conversational Commerce, platform work, whiteboarding mindset, and questions to ask.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -227,7 +227,7 @@
       <guid isPermaLink="false">2026-07-15-moneylion-review-rationale</guid>
       <pubDate>Wed, 15 Jul 2026 12:49:15 GMT</pubDate>
       <itunes:title>MoneyLion Code Review Rationale</itunes:title>
-      <itunes:author>ilteris + Hermes</itunes:author>
+      <itunes:author>Hermes Audio Overviews</itunes:author>
       <itunes:summary>A two-host walkthrough of the reasoning behind the MoneyLion frontend code review challenge: API trust boundaries, async UI correctness, React invariants, accessibility, testing, and interview-ready prioritization.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -242,7 +242,7 @@
       <guid isPermaLink="false">2026-07-14-soul-cli-omnigent-control-plane</guid>
       <pubDate>Tue, 14 Jul 2026 18:58:04 GMT</pubDate>
       <itunes:title>Soul CLI vs Omnigent: Control Planes for Agent Work</itunes:title>
-      <itunes:author>ilteris + Hermes</itunes:author>
+      <itunes:author>Hermes Audio Overviews</itunes:author>
       <itunes:summary>A two-host technical overview of Omnigent and Soul CLI as agent control planes: live child-session collaboration, typed work ledgers, inbox semantics, authority boundaries, and the next useful Soul CLI architecture slice.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -257,7 +257,7 @@
       <guid isPermaLink="false">2026-07-11-sierra-pinecone-soul-cli</guid>
       <pubDate>Sun, 12 Jul 2026 04:01:36 GMT</pubDate>
       <itunes:title>Sierra Pinecone and Soul CLI</itunes:title>
-      <itunes:author>ilteris + Hermes</itunes:author>
+      <itunes:author>Hermes Audio Overviews</itunes:author>
       <itunes:summary>Two-host overview of Sierra Pinecone as validation for the Soul CLI coordination-layer architecture.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -272,7 +272,7 @@
       <guid isPermaLink="false">2026-07-07-omnigent-contextual-policies</guid>
       <pubDate>Tue, 07 Jul 2026 23:10:54 GMT</pubDate>
       <itunes:title>Omnigent Contextual Policies: Governing Agents With Session State</itunes:title>
-      <itunes:author>ilteris + Hermes</itunes:author>
+      <itunes:author>Hermes Audio Overviews</itunes:author>
       <itunes:summary>A two-host explainer of Databricks Omnigent contextual policies: why static allow-lists are too blunt for AI agents, and how session state enables better controls for sensitive data, risk, cost, and intent-based authorization.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -287,7 +287,7 @@
       <guid isPermaLink="false">2026-07-07-system-design-interview-prep</guid>
       <pubDate>Tue, 07 Jul 2026 20:12:03 GMT</pubDate>
       <itunes:title>How to Prepare for System Design Interviews</itunes:title>
-      <itunes:author>ilteris + Hermes</itunes:author>
+      <itunes:author>Hermes Audio Overviews</itunes:author>
       <itunes:summary>A two-host spoken overview of Hello Interview’s system design interview prep guide. The episode covers how system design interviews work, a practical delivery framework, six fundamentals to refresh, common architecture components, and how to practice using canonical problems instead of memorizing random diagrams.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -302,7 +302,7 @@
       <guid isPermaLink="false">2026-07-07-metaskill-evolve</guid>
       <pubDate>Tue, 07 Jul 2026 19:05:15 GMT</pubDate>
       <itunes:title>MetaSkill-Evolve: Agents Improving How They Improve</itunes:title>
-      <itunes:author>ilteris + Hermes</itunes:author>
+      <itunes:author>Hermes Audio Overviews</itunes:author>
       <itunes:summary>A two-host spoken explainer of MetaSkill-Evolve, a paper on recursive self-improvement for skill-based LLM agents. It explains fast task-skill evolution, slower meta-skill evolution, the five-agent improvement pipeline, persistent branch search, benchmark gains on OfficeQA, SealQA, and ALFWorld, and the main caveats.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -317,7 +317,7 @@
       <guid isPermaLink="false">2026-07-07-carmack-hbm-flash</guid>
       <pubDate>Tue, 07 Jul 2026 17:31:25 GMT</pubDate>
       <itunes:title>Carmack on HBM vs Flash for AI Inference</itunes:title>
-      <itunes:author>ilteris + Hermes</itunes:author>
+      <itunes:author>Hermes Audio Overviews</itunes:author>
       <itunes:summary>A two-host spoken explainer unpacking John Carmack’s proposal to use cheap NAND flash as a large model-weight store for AI inference. The episode explains HBM, flash, sequential memory access, scratchpad staging, why inference is easier than training, and what this could mean for AI datacenters.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
