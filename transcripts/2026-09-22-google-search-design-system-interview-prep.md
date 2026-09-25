@@ -6,7 +6,7 @@ hosts:
   Marcus: 'Algenib'
 ---
 
-Alex: Let's examine this technical interview preparation manual from Ilteris Kaplan for the Google Search Design System UX Engineer role. This is a one-hour technical interview with the hiring manager, evaluated at the L6 Staff level.
+Alex: Let's examine this technical interview preparation manual for the Google Search Design System UX Engineer role. This is a one-hour technical interview with the hiring manager, evaluated at the L6 Staff level.
 Marcus: What stands out immediately is how cleanly this targets the exact shift happening in Google Search right now. Search is moving from static result cards to dynamic, non-deterministic AI Overviews. That creates tremendous architectural tension between design system consistency and core rendering latency.
 Alex: Exactly. And the interview is split into three concrete blocks: a five-minute positioning intro, forty minutes of technical architecture questions and live coding on Google's Virtual Interviewing Platform, and fifteen minutes of team matching and candidate Q and A.
 
