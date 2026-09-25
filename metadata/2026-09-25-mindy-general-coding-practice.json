@@ -1,0 +1,17 @@
+{
+  "guid": "2026-09-25-mindy-general-coding-practice",
+  "slug": "2026-09-25-mindy-general-coding-practice",
+  "title": "Mindy General Coding: Four Progressive UX Engineering Drills",
+  "description": "A detailed two-host study session for Calendar, Icon Painter, Rainbow, and Accordion. It explains every progressive implementation diff, the state invariants behind each follow-up, accessibility and browser-platform decisions, and how baseline, solid L5, and strong L6 behavior differ.",
+  "source_url": "",
+  "pub_date_iso": "2026-09-25T16:49:37.251717+00:00",
+  "pub_date_rfc2822": "Fri, 25 Sep 2026 16:49:37 GMT",
+  "audio_file": "episodes/2026-09-25-mindy-general-coding-practice.mp3",
+  "audio_url": "https://ilteris.github.io/hermes-audio-feed/episodes/2026-09-25-mindy-general-coding-practice.mp3",
+  "audio_bytes": 17922476,
+  "duration_seconds": 1120,
+  "duration": "18:40",
+  "transcript_file": "transcripts/2026-09-25-mindy-general-coding-practice.md",
+  "transcript_url": "https://ilteris.github.io/hermes-audio-feed/transcripts/2026-09-25-mindy-general-coding-practice.md",
+  "episode_url": "https://ilteris.github.io/hermes-audio-feed/#2026-09-25-mindy-general-coding-practice"
+}
