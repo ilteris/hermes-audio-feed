@@ -7,8 +7,8 @@
     <language>en-us</language>
     <copyright>Copyright 2026 Podcast Publisher</copyright>
     <generator>Hermes audio_overview_publish_podcast.py</generator>
-    <lastBuildDate>Fri, 25 Sep 2026 17:21:24 GMT</lastBuildDate>
-    <pubDate>Fri, 25 Sep 2026 17:21:24 GMT</pubDate>
+    <lastBuildDate>Fri, 25 Sep 2026 17:47:17 GMT</lastBuildDate>
+    <pubDate>Fri, 25 Sep 2026 17:47:17 GMT</pubDate>
     <atom:link href="https://ilteris.github.io/hermes-audio-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Hermes Audio Overviews</itunes:author>
     <itunes:summary>AI-generated spoken explainers from links saved and published by Hermes.</itunes:summary>
@@ -52,8 +52,8 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://ilteris.github.io/hermes-audio-feed/assets/cover.png" />
-      <itunes:duration>14:31</itunes:duration>
-      <enclosure url="https://ilteris.github.io/hermes-audio-feed/episodes/2026-09-23-google-search-ds-l6-technical-masterclass.mp3" length="13939244" type="audio/mpeg" />
+      <itunes:duration>14:15</itunes:duration>
+      <enclosure url="https://ilteris.github.io/hermes-audio-feed/episodes/2026-09-23-google-search-ds-l6-technical-masterclass.mp3" length="10259468" type="audio/mpeg" />
     </item>
     <item>
       <title>Google Search Senior Design System UX Engineer: Live Drill Masterclass</title>
@@ -68,7 +68,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://ilteris.github.io/hermes-audio-feed/assets/cover.png" />
       <itunes:duration>5:27</itunes:duration>
-      <enclosure url="https://ilteris.github.io/hermes-audio-feed/episodes/2026-09-23-google-search-ds-live-drill-masterclass.mp3" length="5244332" type="audio/mpeg" />
+      <enclosure url="https://ilteris.github.io/hermes-audio-feed/episodes/2026-09-23-google-search-ds-live-drill-masterclass.mp3" length="3924908" type="audio/mpeg" />
     </item>
     <item>
       <title>Agentic Evals: A Software Engineer's Guide (Part 1 Review)</title>
