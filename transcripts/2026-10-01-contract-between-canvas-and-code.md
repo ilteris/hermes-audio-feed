@@ -114,9 +114,17 @@ Marcus: If someone clicks approve in that dashboard, the action should create a 
 
 Alex: That keeps the architecture honest. The control panel improves usability, but the durable record remains contracts, commits, reviews, attestations, and baselines.
 
-Marcus: The smallest viable implementation is therefore modest: a Git repository, component schemas, a registry CLI, GitHub Actions, protected pull requests, and agent-generated evidence. Start with one component and one Figma-to-React path before attempting every platform.
+Marcus: This also works above the individual component level. A search-results layout can combine a Search Field from a Material library, a Place Card from a Maps library, and navigation from another file. The registry resolves every child to a published component key, so the promotion agent inserts linked instances rather than flattening their geometry.
 
-Alex: Add complexity only when the earlier layer proves useful. First validate identity and the shared property contract. Then add semantic diff and impact analysis. Then proposals and evidence. Then target verification and preview packages. Cross-repository attestations and a custom dashboard can come later.
+Alex: Tokens work the same way across files. A Maps semantic token can alias a Material core token while keeping its own stable identity. The verifier follows the alias graph, checks every required mode, rejects cycles, and distinguishes a real variable binding from a raw value that merely looks identical today.
+
+Marcus: Verification itself has to be layered. Schema checks prove the contract is well formed. Token checks prove aliases and modes resolve. Prototype checks prove the evidence belongs to the stated commit. Figma checks prove component keys, variants, slots, Auto Layout, variables, and nested instances. Then Code Connect and platform checks prove the design contract reaches real implementations.
+
+Alex: And the status model matters. A check can pass, fail, warn, be not applicable, or be unverifiable. Unverifiable never quietly becomes passed. If a remote library is unpublished, a component was recreated under the same name, an instance is detached, a baseline is stale, or Figma changes during an agent write, promotion stops with evidence.
+
+Marcus: So the smallest complete system has eight pieces. One: a token adapter. Two: the registry schema and CLI. Three: a development-only prototype instrumentation package. Four: a Playwright evidence collector. Five: a Figma promotion skill using write-to-canvas. Six: a Figma structural verifier. Seven: a Code Connect generator. And eight: a GitHub Actions workflow enforcing the gates.
+
+Alex: Everything else should be reused: Material packages, Git and GitHub, Playwright, Figma's MCP tools, and Code Connect. Start with one Place Card completing the full loop. Build the token adapter and registry first, then prototype capture and Figma promotion, then verification and CI. A custom dashboard and registry MCP server can wait until the file-and-CLI workflow proves itself.
 
 Marcus: The governing principle stays stable throughout: automatically reconcile only changes already authorized by the shared contract. Preserve everything else as attributed evidence, a proposal, or an explicit conflict.
 

@@ -7,8 +7,8 @@
     <language>en-us</language>
     <copyright>Copyright 2026 Podcast Publisher</copyright>
     <generator>Hermes audio_overview_publish_podcast.py</generator>
-    <lastBuildDate>Thu, 01 Oct 2026 18:29:31 GMT</lastBuildDate>
-    <pubDate>Thu, 01 Oct 2026 18:29:31 GMT</pubDate>
+    <lastBuildDate>Thu, 01 Oct 2026 18:57:56 GMT</lastBuildDate>
+    <pubDate>Thu, 01 Oct 2026 18:57:56 GMT</pubDate>
     <atom:link href="https://ilteris.github.io/hermes-audio-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Hermes Audio Overviews</itunes:author>
     <itunes:summary>AI-generated spoken explainers from links saved and published by Hermes.</itunes:summary>
@@ -27,18 +27,18 @@
     </image>
     <item>
       <title>The Contract Between Canvas and Code</title>
-      <description>A senior-engineering discussion of bidirectional design-to-code infrastructure: component identity, registry contracts, conflict policy, interactive prototyping, agent responsibilities, Git governance, and the registry CLI.</description>
+      <description>A senior-engineering discussion of bidirectional design-to-code infrastructure: component identity, registry contracts, conflict policy, interactive prototyping, cross-file layouts and tokens, layered verification, edge cases, Git governance, and the minimum system required to build the loop.</description>
       <link>https://ilteris.github.io/hermes-audio-feed/#2026-10-01-contract-between-canvas-and-code</link>
       <guid isPermaLink="false">2026-10-01-contract-between-canvas-and-code</guid>
-      <pubDate>Thu, 01 Oct 2026 18:29:31 GMT</pubDate>
+      <pubDate>Thu, 01 Oct 2026 18:57:56 GMT</pubDate>
       <itunes:title>The Contract Between Canvas and Code</itunes:title>
       <itunes:author>Hermes Audio Overviews</itunes:author>
-      <itunes:summary>A senior-engineering discussion of bidirectional design-to-code infrastructure: component identity, registry contracts, conflict policy, interactive prototyping, agent responsibilities, Git governance, and the registry CLI.</itunes:summary>
+      <itunes:summary>A senior-engineering discussion of bidirectional design-to-code infrastructure: component identity, registry contracts, conflict policy, interactive prototyping, cross-file layouts and tokens, layered verification, edge cases, Git governance, and the minimum system required to build the loop.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://ilteris.github.io/hermes-audio-feed/assets/cover.png" />
-      <itunes:duration>17:43</itunes:duration>
-      <enclosure url="https://ilteris.github.io/hermes-audio-feed/episodes/2026-10-01-contract-between-canvas-and-code.mp3" length="17018156" type="audio/mpeg" />
+      <itunes:duration>19:10</itunes:duration>
+      <enclosure url="https://ilteris.github.io/hermes-audio-feed/episodes/2026-10-01-contract-between-canvas-and-code.mp3" length="18410924" type="audio/mpeg" />
     </item>
     <item>
       <title>Four Progressive UX Engineering Coding Drills</title>
