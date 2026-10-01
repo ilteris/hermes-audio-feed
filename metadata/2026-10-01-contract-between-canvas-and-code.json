@@ -1,0 +1,17 @@
+{
+  "guid": "2026-10-01-contract-between-canvas-and-code",
+  "slug": "2026-10-01-contract-between-canvas-and-code",
+  "title": "The Contract Between Canvas and Code",
+  "description": "A senior-engineering discussion of bidirectional design-to-code infrastructure: component identity, registry contracts, conflict policy, interactive prototyping, agent responsibilities, Git governance, and the registry CLI.",
+  "source_url": "",
+  "pub_date_iso": "2026-10-01T18:29:31.489937+00:00",
+  "pub_date_rfc2822": "Thu, 01 Oct 2026 18:29:31 GMT",
+  "audio_file": "episodes/2026-10-01-contract-between-canvas-and-code.mp3",
+  "audio_url": "https://ilteris.github.io/hermes-audio-feed/episodes/2026-10-01-contract-between-canvas-and-code.mp3",
+  "audio_bytes": 17018156,
+  "duration_seconds": 1063,
+  "duration": "17:43",
+  "transcript_file": "transcripts/2026-10-01-contract-between-canvas-and-code.md",
+  "transcript_url": "https://ilteris.github.io/hermes-audio-feed/transcripts/2026-10-01-contract-between-canvas-and-code.md",
+  "episode_url": "https://ilteris.github.io/hermes-audio-feed/#2026-10-01-contract-between-canvas-and-code"
+}

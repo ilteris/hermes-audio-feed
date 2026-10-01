@@ -7,8 +7,8 @@
     <language>en-us</language>
     <copyright>Copyright 2026 Podcast Publisher</copyright>
     <generator>Hermes audio_overview_publish_podcast.py</generator>
-    <lastBuildDate>Fri, 25 Sep 2026 17:47:17 GMT</lastBuildDate>
-    <pubDate>Fri, 25 Sep 2026 17:47:17 GMT</pubDate>
+    <lastBuildDate>Thu, 01 Oct 2026 18:29:31 GMT</lastBuildDate>
+    <pubDate>Thu, 01 Oct 2026 18:29:31 GMT</pubDate>
     <atom:link href="https://ilteris.github.io/hermes-audio-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Hermes Audio Overviews</itunes:author>
     <itunes:summary>AI-generated spoken explainers from links saved and published by Hermes.</itunes:summary>
@@ -25,6 +25,21 @@
       <title>Hermes Audio Overviews</title>
       <link>https://ilteris.github.io/hermes-audio-feed/</link>
     </image>
+    <item>
+      <title>The Contract Between Canvas and Code</title>
+      <description>A senior-engineering discussion of bidirectional design-to-code infrastructure: component identity, registry contracts, conflict policy, interactive prototyping, agent responsibilities, Git governance, and the registry CLI.</description>
+      <link>https://ilteris.github.io/hermes-audio-feed/#2026-10-01-contract-between-canvas-and-code</link>
+      <guid isPermaLink="false">2026-10-01-contract-between-canvas-and-code</guid>
+      <pubDate>Thu, 01 Oct 2026 18:29:31 GMT</pubDate>
+      <itunes:title>The Contract Between Canvas and Code</itunes:title>
+      <itunes:author>Hermes Audio Overviews</itunes:author>
+      <itunes:summary>A senior-engineering discussion of bidirectional design-to-code infrastructure: component identity, registry contracts, conflict policy, interactive prototyping, agent responsibilities, Git governance, and the registry CLI.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://ilteris.github.io/hermes-audio-feed/assets/cover.png" />
+      <itunes:duration>17:43</itunes:duration>
+      <enclosure url="https://ilteris.github.io/hermes-audio-feed/episodes/2026-10-01-contract-between-canvas-and-code.mp3" length="17018156" type="audio/mpeg" />
+    </item>
     <item>
       <title>Four Progressive UX Engineering Coding Drills</title>
       <description>A detailed two-host study session covering Calendar, Icon Painter, Rainbow, and Accordion. It explains progressive implementation diffs, state invariants, accessibility and browser-platform decisions, and the distinction between baseline, solid L5, and strong L6 behavior.</description>
