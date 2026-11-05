@@ -1,0 +1,17 @@
+{
+  "guid": "2026-07-07-omnigent-contextual-policies",
+  "slug": "2026-07-07-omnigent-contextual-policies",
+  "title": "Omnigent Contextual Policies: Governing Agents With Session State",
+  "description": "A two-host explainer of Databricks Omnigent contextual policies: why static allow-lists are too blunt for AI agents, and how session state enables better controls for sensitive data, risk, cost, and intent-based authorization.",
+  "source_url": "https://www.databricks.com/blog/contextual-policies-omnigent-using-session-state-better-govern-ai-agents",
+  "pub_date_iso": "2026-07-07T23:10:54.036260+00:00",
+  "pub_date_rfc2822": "Tue, 07 Jul 2026 23:10:54 GMT",
+  "audio_file": "episodes/2026-07-07-omnigent-contextual-policies.mp3",
+  "audio_url": "https://ilteris.github.io/hermes-audio-feed/episodes/2026-07-07-omnigent-contextual-policies.mp3",
+  "audio_bytes": 9697580,
+  "duration_seconds": 606,
+  "duration": "10:06",
+  "transcript_file": "transcripts/2026-07-07-omnigent-contextual-policies.md",
+  "transcript_url": "https://ilteris.github.io/hermes-audio-feed/transcripts/2026-07-07-omnigent-contextual-policies.md",
+  "episode_url": "https://ilteris.github.io/hermes-audio-feed/#2026-07-07-omnigent-contextual-policies"
+}

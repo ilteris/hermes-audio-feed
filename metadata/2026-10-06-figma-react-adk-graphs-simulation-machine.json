@@ -1,0 +1,17 @@
+{
+  "guid": "2026-10-06-figma-react-adk-graphs-simulation-machine",
+  "slug": "2026-10-06-figma-react-adk-graphs-simulation-machine",
+  "title": "Figma to React: ADK Graphs and the Simulation Machine",
+  "description": "A 19-minute two-host walkthrough of a hypothetical Figma-to-React checkout system: the eight design questions, eight workflow stages, component mapping, sessions, debugging, human review, verification and repair, plus Viv Trivedy’s simulation-machine approach to evaluations and controlled improvement.",
+  "source_url": "https://cloud.google.com/blog/topics/developers-practitioners/graph-workflows-in-adk-everything-you-need-to-know/",
+  "pub_date_iso": "2026-10-06T17:54:38.236805+00:00",
+  "pub_date_rfc2822": "Tue, 06 Oct 2026 17:54:38 GMT",
+  "audio_file": "episodes/2026-10-06-figma-react-adk-graphs-simulation-machine.mp3",
+  "audio_url": "https://ilteris.github.io/hermes-audio-feed/episodes/2026-10-06-figma-react-adk-graphs-simulation-machine.mp3",
+  "audio_bytes": 18206636,
+  "duration_seconds": 1137,
+  "duration": "18:57",
+  "transcript_file": "transcripts/2026-10-06-figma-react-adk-graphs-simulation-machine.md",
+  "transcript_url": "https://ilteris.github.io/hermes-audio-feed/transcripts/2026-10-06-figma-react-adk-graphs-simulation-machine.md",
+  "episode_url": "https://ilteris.github.io/hermes-audio-feed/#2026-10-06-figma-react-adk-graphs-simulation-machine"
+}

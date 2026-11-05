@@ -1,0 +1,17 @@
+{
+  "guid": "2026-07-14-soul-cli-omnigent-control-plane",
+  "slug": "2026-07-14-soul-cli-omnigent-control-plane",
+  "title": "Soul CLI vs Omnigent: Control Planes for Agent Work",
+  "description": "A two-host technical overview of Omnigent and Soul CLI as agent control planes: live child-session collaboration, typed work ledgers, inbox semantics, authority boundaries, and the next useful Soul CLI architecture slice.",
+  "source_url": "https://github.com/omnigent-ai/omnigent",
+  "pub_date_iso": "2026-07-14T18:58:04.878857+00:00",
+  "pub_date_rfc2822": "Tue, 14 Jul 2026 18:58:04 GMT",
+  "audio_file": "episodes/2026-07-14-soul-cli-omnigent-control-plane.mp3",
+  "audio_url": "https://ilteris.github.io/hermes-audio-feed/episodes/2026-07-14-soul-cli-omnigent-control-plane.mp3",
+  "audio_bytes": 12752300,
+  "duration_seconds": 796,
+  "duration": "13:16",
+  "transcript_file": "transcripts/2026-07-14-soul-cli-omnigent-control-plane.md",
+  "transcript_url": "https://ilteris.github.io/hermes-audio-feed/transcripts/2026-07-14-soul-cli-omnigent-control-plane.md",
+  "episode_url": "https://ilteris.github.io/hermes-audio-feed/#2026-07-14-soul-cli-omnigent-control-plane"
+}

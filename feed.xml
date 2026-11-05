@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hermes Audio Overviews</title>
+    <link>https://ilteris.github.io/hermes-audio-feed/</link>
+    <description>AI-generated spoken explainers from links saved and published by Hermes.</description>
+    <language>en-us</language>
+    <copyright>Copyright 2026 Podcast Publisher</copyright>
+    <generator>Hermes audio_overview_publish_podcast.py</generator>
+    <lastBuildDate>Thu, 05 Nov 2026 15:18:54 GMT</lastBuildDate>
+    <pubDate>Thu, 05 Nov 2026 15:18:54 GMT</pubDate>
+    <atom:link href="https://ilteris.github.io/hermes-audio-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:author>Hermes Audio Overviews</itunes:author>
+    <itunes:summary>AI-generated spoken explainers from links saved and published by Hermes.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Technology" />
+    <itunes:image href="https://ilteris.github.io/hermes-audio-feed/assets/cover.png" />
+    <itunes:owner>
+      <itunes:name>Podcast Publisher</itunes:name>
+      <itunes:email>podcast@example.com</itunes:email>
+    </itunes:owner>
+    <image>
+      <url>https://ilteris.github.io/hermes-audio-feed/assets/cover.png</url>
+      <title>Hermes Audio Overviews</title>
+      <link>https://ilteris.github.io/hermes-audio-feed/</link>
+    </image>
+    <item>
+      <title>Figma to React: ADK Graphs and the Simulation Machine</title>
+      <description>A 19-minute two-host walkthrough of a hypothetical Figma-to-React checkout system: the eight design questions, eight workflow stages, component mapping, sessions, debugging, human review, verification and repair, plus Viv Trivedy’s simulation-machine approach to evaluations and controlled improvement.</description>
+      <link>https://ilteris.github.io/hermes-audio-feed/#2026-10-06-figma-react-adk-graphs-simulation-machine</link>
+      <guid isPermaLink="false">2026-10-06-figma-react-adk-graphs-simulation-machine</guid>
+      <pubDate>Tue, 06 Oct 2026 17:54:38 GMT</pubDate>
+      <itunes:title>Figma to React: ADK Graphs and the Simulation Machine</itunes:title>
+      <itunes:author>Hermes Audio Overviews</itunes:author>
+      <itunes:summary>A 19-minute two-host walkthrough of a hypothetical Figma-to-React checkout system: the eight design questions, eight workflow stages, component mapping, sessions, debugging, human review, verification and repair, plus Viv Trivedy’s simulation-machine approach to evaluations and controlled improvement.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://ilteris.github.io/hermes-audio-feed/assets/cover.png" />
+      <itunes:duration>18:57</itunes:duration>
+      <enclosure url="https://ilteris.github.io/hermes-audio-feed/episodes/2026-10-06-figma-react-adk-graphs-simulation-machine.mp3" length="18206636" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Contract Between Canvas and Code</title>
+      <description>A senior-engineering discussion of bidirectional design-to-code infrastructure: component identity, registry contracts, conflict policy, interactive prototyping, cross-file layouts and tokens, layered verification, edge cases, Git governance, and the minimum system required to build the loop.</description>
+      <link>https://ilteris.github.io/hermes-audio-feed/#2026-10-01-contract-between-canvas-and-code</link>
+      <guid isPermaLink="false">2026-10-01-contract-between-canvas-and-code</guid>
+      <pubDate>Thu, 01 Oct 2026 18:57:56 GMT</pubDate>
+      <itunes:title>The Contract Between Canvas and Code</itunes:title>
+      <itunes:author>Hermes Audio Overviews</itunes:author>
+      <itunes:summary>A senior-engineering discussion of bidirectional design-to-code infrastructure: component identity, registry contracts, conflict policy, interactive prototyping, cross-file layouts and tokens, layered verification, edge cases, Git governance, and the minimum system required to build the loop.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://ilteris.github.io/hermes-audio-feed/assets/cover.png" />
+      <itunes:duration>19:10</itunes:duration>
+      <enclosure url="https://ilteris.github.io/hermes-audio-feed/episodes/2026-10-01-contract-between-canvas-and-code.mp3" length="18410924" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Agentic Evals: A Software Engineer's Guide (Part 1 Review)</title>
+      <description>Alex and Marcus review Yesha Shah's guide to building evals for production-grade AI agents: compounding errors in trajectories, metric stacks, binary rubrics vs scalar scores, pass^k vs pass@k, and why agent evals are fundamentally integration tests.</description>
+      <link>https://ilteris.github.io/hermes-audio-feed/#2026-09-23-agentic-evals-guide-part-1</link>
+      <guid isPermaLink="false">2026-09-23-agentic-evals-guide-part-1</guid>
+      <pubDate>Wed, 23 Sep 2026 20:49:22 GMT</pubDate>
+      <itunes:title>Agentic Evals: A Software Engineer's Guide (Part 1 Review)</itunes:title>
+      <itunes:author>Hermes Audio Overviews</itunes:author>
+      <itunes:summary>Alex and Marcus review Yesha Shah's guide to building evals for production-grade AI agents: compounding errors in trajectories, metric stacks, binary rubrics vs scalar scores, pass^k vs pass@k, and why agent evals are fundamentally integration tests.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://ilteris.github.io/hermes-audio-feed/assets/cover.png" />
+      <itunes:duration>5:17</itunes:duration>
+      <enclosure url="https://ilteris.github.io/hermes-audio-feed/episodes/2026-09-23-agentic-evals-guide-part-1.mp3" length="5076524" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Agent Hypervisor: Why Google Calls AX Orchestration</title>
+      <description>Deep architectural review between senior software engineers Alex and Marcus covering Google AX (google/ax), its Redis Streams control plane, gVisor sandboxing on Agent Substrate, and why systems orchestration is distinct from cognitive agent frameworks.</description>
+      <link>https://ilteris.github.io/hermes-audio-feed/#2026-09-20-google-ax-agent-hypervisor</link>
+      <guid isPermaLink="false">2026-09-20-google-ax-agent-hypervisor</guid>
+      <pubDate>Mon, 21 Sep 2026 02:09:36 GMT</pubDate>
+      <itunes:title>The Agent Hypervisor: Why Google Calls AX Orchestration</itunes:title>
+      <itunes:author>Hermes Audio Overviews</itunes:author>
+      <itunes:summary>Deep architectural review between senior software engineers Alex and Marcus covering Google AX (google/ax), its Redis Streams control plane, gVisor sandboxing on Agent Substrate, and why systems orchestration is distinct from cognitive agent frameworks.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://ilteris.github.io/hermes-audio-feed/assets/cover.png" />
+      <itunes:duration>7:04</itunes:duration>
+      <enclosure url="https://ilteris.github.io/hermes-audio-feed/episodes/2026-09-20-google-ax-agent-hypervisor.mp3" length="6788012" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Soul CLI vs Omnigent: Control Planes for Agent Work</title>
+      <description>A two-host technical overview of Omnigent and Soul CLI as agent control planes: live child-session collaboration, typed work ledgers, inbox semantics, authority boundaries, and the next useful Soul CLI architecture slice.</description>
+      <link>https://ilteris.github.io/hermes-audio-feed/#2026-07-14-soul-cli-omnigent-control-plane</link>
+      <guid isPermaLink="false">2026-07-14-soul-cli-omnigent-control-plane</guid>
+      <pubDate>Tue, 14 Jul 2026 18:58:04 GMT</pubDate>
+      <itunes:title>Soul CLI vs Omnigent: Control Planes for Agent Work</itunes:title>
+      <itunes:author>Hermes Audio Overviews</itunes:author>
+      <itunes:summary>A two-host technical overview of Omnigent and Soul CLI as agent control planes: live child-session collaboration, typed work ledgers, inbox semantics, authority boundaries, and the next useful Soul CLI architecture slice.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://ilteris.github.io/hermes-audio-feed/assets/cover.png" />
+      <itunes:duration>13:16</itunes:duration>
+      <enclosure url="https://ilteris.github.io/hermes-audio-feed/episodes/2026-07-14-soul-cli-omnigent-control-plane.mp3" length="12752300" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Omnigent Contextual Policies: Governing Agents With Session State</title>
+      <description>A two-host explainer of Databricks Omnigent contextual policies: why static allow-lists are too blunt for AI agents, and how session state enables better controls for sensitive data, risk, cost, and intent-based authorization.</description>
+      <link>https://ilteris.github.io/hermes-audio-feed/#2026-07-07-omnigent-contextual-policies</link>
+      <guid isPermaLink="false">2026-07-07-omnigent-contextual-policies</guid>
+      <pubDate>Tue, 07 Jul 2026 23:10:54 GMT</pubDate>
+      <itunes:title>Omnigent Contextual Policies: Governing Agents With Session State</itunes:title>
+      <itunes:author>Hermes Audio Overviews</itunes:author>
+      <itunes:summary>A two-host explainer of Databricks Omnigent contextual policies: why static allow-lists are too blunt for AI agents, and how session state enables better controls for sensitive data, risk, cost, and intent-based authorization.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://ilteris.github.io/hermes-audio-feed/assets/cover.png" />
+      <itunes:duration>10:06</itunes:duration>
+      <enclosure url="https://ilteris.github.io/hermes-audio-feed/episodes/2026-07-07-omnigent-contextual-policies.mp3" length="9697580" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>MetaSkill-Evolve: Agents Improving How They Improve</title>
+      <description>A two-host spoken explainer of MetaSkill-Evolve, a paper on recursive self-improvement for skill-based LLM agents. It explains fast task-skill evolution, slower meta-skill evolution, the five-agent improvement pipeline, persistent branch search, benchmark gains on OfficeQA, SealQA, and ALFWorld, and the main caveats.</description>
+      <link>https://ilteris.github.io/hermes-audio-feed/#2026-07-07-metaskill-evolve</link>
+      <guid isPermaLink="false">2026-07-07-metaskill-evolve</guid>
+      <pubDate>Tue, 07 Jul 2026 19:05:15 GMT</pubDate>
+      <itunes:title>MetaSkill-Evolve: Agents Improving How They Improve</itunes:title>
+      <itunes:author>Hermes Audio Overviews</itunes:author>
+      <itunes:summary>A two-host spoken explainer of MetaSkill-Evolve, a paper on recursive self-improvement for skill-based LLM agents. It explains fast task-skill evolution, slower meta-skill evolution, the five-agent improvement pipeline, persistent branch search, benchmark gains on OfficeQA, SealQA, and ALFWorld, and the main caveats.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://ilteris.github.io/hermes-audio-feed/assets/cover.png" />
+      <itunes:duration>11:51</itunes:duration>
+      <enclosure url="https://ilteris.github.io/hermes-audio-feed/episodes/2026-07-07-metaskill-evolve.mp3" length="11389100" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Carmack on HBM vs Flash for AI Inference</title>
+      <description>A two-host spoken explainer unpacking John Carmack’s proposal to use cheap NAND flash as a large model-weight store for AI inference. The episode explains HBM, flash, sequential memory access, scratchpad staging, why inference is easier than training, and what this could mean for AI datacenters.</description>
+      <link>https://ilteris.github.io/hermes-audio-feed/#2026-07-07-carmack-hbm-flash</link>
+      <guid isPermaLink="false">2026-07-07-carmack-hbm-flash</guid>
+      <pubDate>Tue, 07 Jul 2026 17:31:25 GMT</pubDate>
+      <itunes:title>Carmack on HBM vs Flash for AI Inference</itunes:title>
+      <itunes:author>Hermes Audio Overviews</itunes:author>
+      <itunes:summary>A two-host spoken explainer unpacking John Carmack’s proposal to use cheap NAND flash as a large model-weight store for AI inference. The episode explains HBM, flash, sequential memory access, scratchpad staging, why inference is easier than training, and what this could mean for AI datacenters.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://ilteris.github.io/hermes-audio-feed/assets/cover.png" />
+      <itunes:duration>7:46</itunes:duration>
+      <enclosure url="https://ilteris.github.io/hermes-audio-feed/episodes/2026-07-07-carmack-hbm-flash.mp3" length="7466540" type="audio/mpeg" />
+    </item>
+  </channel>
+</rss>

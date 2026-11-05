@@ -1,0 +1,17 @@
+{
+  "guid": "2026-07-07-metaskill-evolve",
+  "slug": "2026-07-07-metaskill-evolve",
+  "title": "MetaSkill-Evolve: Agents Improving How They Improve",
+  "description": "A two-host spoken explainer of MetaSkill-Evolve, a paper on recursive self-improvement for skill-based LLM agents. It explains fast task-skill evolution, slower meta-skill evolution, the five-agent improvement pipeline, persistent branch search, benchmark gains on OfficeQA, SealQA, and ALFWorld, and the main caveats.",
+  "source_url": "https://arxiv.org/abs/2607.05297",
+  "pub_date_iso": "2026-07-07T19:05:15.363847+00:00",
+  "pub_date_rfc2822": "Tue, 07 Jul 2026 19:05:15 GMT",
+  "audio_file": "episodes/2026-07-07-metaskill-evolve.mp3",
+  "audio_url": "https://ilteris.github.io/hermes-audio-feed/episodes/2026-07-07-metaskill-evolve.mp3",
+  "audio_bytes": 11389100,
+  "duration_seconds": 711,
+  "duration": "11:51",
+  "transcript_file": "transcripts/2026-07-07-metaskill-evolve.md",
+  "transcript_url": "https://ilteris.github.io/hermes-audio-feed/transcripts/2026-07-07-metaskill-evolve.md",
+  "episode_url": "https://ilteris.github.io/hermes-audio-feed/#2026-07-07-metaskill-evolve"
+}
